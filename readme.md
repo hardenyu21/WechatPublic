@@ -1,3 +1,3 @@
 #### hardenyu的微信公众号
 
-[](./image/QRcode.jpeg)
+![](./image/QRcode.jpeg)
